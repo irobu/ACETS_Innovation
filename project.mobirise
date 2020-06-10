@@ -57,8 +57,8 @@
     "ACETS Innovation Reports.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "ACETS Innovation",
+        "meta_descr": "ACETS Innovation",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
